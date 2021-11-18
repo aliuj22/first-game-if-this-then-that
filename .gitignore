@@ -4,3 +4,7 @@ thumbs.db
 node_modules
 *.css.map
 .vscode/*
+
+.parcel-cache/
+
+dist/
